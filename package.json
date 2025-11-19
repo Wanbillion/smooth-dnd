@@ -10,7 +10,7 @@
     "prettier": "prettier packages/**/*.{ts,tsx,js,json,vue} --write"
   },
   "dependencies": {
-    "lerna": "^6.6.1",
+    "lerna": "^8.1.9",
     "prettier": "^2.8.8",
     "typescript": "^5.0.4"
   },
